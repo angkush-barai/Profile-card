@@ -1,0 +1,24 @@
+#card {
+    height: 700px;
+    width: 670px;
+    background-color: skyblue;
+    border-radius: 35px;
+}
+body {
+    background-color: burlywood;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+i {
+    font-size: 67px;
+}
+p {
+    font-size: 30px;
+}
+h1 {
+    text-decoration: underline;
+    font-size: 45px;
+}
